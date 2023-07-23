@@ -1,0 +1,12 @@
+/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.Contracts/bin/Debug/net7.0/DotnetApi.Contracts.deps.json
+/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.Contracts/bin/Debug/net7.0/DotnetApi.Contracts.dll
+/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.Contracts/bin/Debug/net7.0/DotnetApi.Contracts.pdb
+/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.Contracts/obj/Debug/net7.0/DotnetApi.Contracts.csproj.AssemblyReference.cache
+/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.Contracts/obj/Debug/net7.0/DotnetApi.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.Contracts/obj/Debug/net7.0/DotnetApi.Contracts.AssemblyInfoInputs.cache
+/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.Contracts/obj/Debug/net7.0/DotnetApi.Contracts.AssemblyInfo.cs
+/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.Contracts/obj/Debug/net7.0/DotnetApi.Contracts.csproj.CoreCompileInputs.cache
+/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.Contracts/obj/Debug/net7.0/DotnetApi.Contracts.dll
+/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.Contracts/obj/Debug/net7.0/refint/DotnetApi.Contracts.dll
+/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.Contracts/obj/Debug/net7.0/DotnetApi.Contracts.pdb
+/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.Contracts/obj/Debug/net7.0/ref/DotnetApi.Contracts.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TB8Nc/d6hIoGXKNxoGwiI4hgVyKO+AkXJNBTW6E78gjK99mLoO+w2GNvgrAKORi26jZkqQmJw85j9TJCjzBMOA==",
+  "dgSpecHash": "Wq4imVWpgDJTQSMxSBYll15ZdYSE8a5CahoYKGeEmG6dVo4JSxqvv7L6rgSHVinhR7YHqwMF4VsaSWvDYbnKnw==",
   "success": true,
-  "projectFilePath": "/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.Contracts/DotnetApi.Contracts.csproj",
+  "projectFilePath": "/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.contracts/DotnetApi.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.Contracts/DotnetApi.Contracts.csproj": {}
+    "/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.contracts/DotnetApi.Contracts.csproj": {}
   },
   "projects": {
-    "/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.Contracts/DotnetApi.Contracts.csproj": {
+    "/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.contracts/DotnetApi.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.Contracts/DotnetApi.Contracts.csproj",
+        "projectUniqueName": "/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.contracts/DotnetApi.Contracts.csproj",
         "projectName": "DotnetApi.Contracts",
-        "projectPath": "/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.Contracts/DotnetApi.Contracts.csproj",
+        "projectPath": "/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.contracts/DotnetApi.Contracts.csproj",
         "packagesPath": "/Users/dambi/.nuget/packages/",
-        "outputPath": "/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.Contracts/obj/",
+        "outputPath": "/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi.contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dambi/.nuget/NuGet/NuGet.Config"

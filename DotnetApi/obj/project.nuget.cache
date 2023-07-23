@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LAUFHHdjRx6ZhdN+HyBCC0FsiK5y3b2skQEv3s5yBnGgx5c77hKTdR5l/tfNj4kgKQLV1d3EMY+4Kr33teUB3w==",
+  "dgSpecHash": "aF4xF7KfT5RkQxHYVYIsUlgQLYaAr74NRrolcJIyvef6x4Sx39Mug0CnAy+WmFkd2F5qKdfjpow81Qj10Qdgzg==",
   "success": true,
   "projectFilePath": "/Users/dambi/Downloads/DotNetBackend/DotnetApi/DotnetApi/DotnetApi.csproj",
-  "expectedPackageFiles": [
-    "/Users/dambi/.nuget/packages/microsoft.aspnetcore.openapi/7.0.9/microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
-    "/Users/dambi/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "/Users/dambi/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
-    "/Users/dambi/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
-    "/Users/dambi/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
-    "/Users/dambi/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "/Users/dambi/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

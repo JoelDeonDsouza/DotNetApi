@@ -1,4 +1,5 @@
 using DotnetApi.Contracts.API;
+using DotNetApi.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DotNetApi.Controllers;
@@ -11,7 +12,21 @@ public class DotNetController : ControllerBase
     [HttpPost()]
     public IActionResult CreateApi(CreateRequest request)
     {
-        return Ok(request);
+        var modelApi = new ModelApi(
+            Guid.NewGuid(),
+            request.Name,
+            request.Description,
+            request.StartDateTime,
+            request.EndDateTime
+            );
+        var response = new ModelApiResponse(
+            modelApi.Id,
+            modelApi.Name,
+            modelApi.Description,
+            modelApi.StartDateTime,
+            modelApi.EndDateTime
+        );
+        return CreatedAtAction(actionName: nameof(GetApi), routeValues: new { id = modelApi.Id }, response);
     }
     // /! Get request /
     [HttpGet("{id:guid}")]
@@ -30,5 +45,23 @@ public class DotNetController : ControllerBase
     public IActionResult DeleteApi(Guid id)
     {
         return Ok(id);
+    }
+
+    private class ModelApiResponse
+    {
+        private Guid id;
+        private string name;
+        private string description;
+        private DateTime startDateTime;
+        private DateTime endDateTime;
+
+        public ModelApiResponse(Guid id, string name, string description, DateTime startDateTime, DateTime endDateTime)
+        {
+            this.id = id;
+            this.name = name;
+            this.description = description;
+            this.startDateTime = startDateTime;
+            this.endDateTime = endDateTime;
+        }
     }
 }

@@ -9,7 +9,7 @@ namespace DotNetApi.Controllers;
 public class DotNetController : ControllerBase
 {
     // /! post request /
-    [HttpPost()]
+    [HttpPost]
     public IActionResult CreateApi(CreateRequest request)
     {
         var modelApi = new ModelApi(
